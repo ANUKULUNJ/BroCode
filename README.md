@@ -44,7 +44,7 @@ Ensure you have the following tools installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/brocode.git
+    git clone [https://github.com/your-username/brocode.git](https://github.com/ANUKULUNJ/BroCode.git)
     cd brocode
     ```
 
